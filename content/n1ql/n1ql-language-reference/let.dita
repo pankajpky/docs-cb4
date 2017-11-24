@@ -8,6 +8,6 @@
 
   <p>LET stores the result of a sub-expression in order to use it in subsequent clauses.</p>
   <p>Aliases in the LET clause create new names that can be referred to anywhere in the query.</p>
-
+  <p>pankaja</p>
  </conbody>
 </concept>
